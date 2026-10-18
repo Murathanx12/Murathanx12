@@ -1,8 +1,8 @@
-# Hi, I’m Murathan. I code and build things.
+# Hi, I’m Murathan. I like building things.
 
-[**murathan.info ↗**](https://murathan.info)
+[murathan.info](https://murathan.info)
 
-![Code, design and build — selected projects](assets/project-strip.svg)
+![Projects I’m working on: Aegis Finance, Optimus Brain and Sony the robotic butler](assets/project-strip.svg)
 
 ### Aegis Finance
 
@@ -20,13 +20,21 @@ Project memory and reusable tools for AI assistants. Sources, decisions and skil
 
 [![Optimus Brain — connected project memory](assets/optimus-neural.svg)](https://optimus-brain-alpha.vercel.app)
 
-### Sonny · AR-2
+### Sony the robotic butler
 
 A robotic butler with mecanum wheels, computer vision, voice interaction and an expressive face. A team project connecting mechanical design, electronics and software.
 
 [**Project & build notes**](https://github.com/Murathanx12/AR-2) · [Technical report](https://github.com/Murathanx12/AR-2/blob/main/docs/Sonny_Technical_Report.pdf)
 
-[![Sonny on the workshop test track](assets/demo_face.jpg)](https://github.com/Murathanx12/AR-2)
+[![Sony on the workshop test track](assets/demo_face.jpg)](https://github.com/Murathanx12/AR-2)
+
+### Web Portfolio Template
+
+The open-source starting point for my portfolio, with interactive 3D models, a media library and room to make it your own.
+
+[**Get the template**](https://github.com/Murathanx12/Web-Portfolio-Template) · [See my version](https://murathan.info)
+
+[![Web Portfolio Template — original portfolio interface](https://raw.githubusercontent.com/Murathanx12/Web-Portfolio-Template/main/docs/screenshot-hero.png)](https://github.com/Murathanx12/Web-Portfolio-Template)
 
 <table>
 <tr>
@@ -50,13 +58,5 @@ A student housing guide for exploring Hong Kong neighbourhoods, commutes and ren
 </td>
 </tr>
 </table>
-
-### Web Portfolio Template
-
-The open-source starting point for my portfolio, with interactive 3D models, a media library and room to make it your own.
-
-[**Get the template**](https://github.com/Murathanx12/Web-Portfolio-Template) · [See my version](https://murathan.info)
-
-[![Web Portfolio Template — original portfolio interface](https://raw.githubusercontent.com/Murathanx12/Web-Portfolio-Template/main/docs/screenshot-hero.png)](https://github.com/Murathanx12/Web-Portfolio-Template)
 
 <sub>A small side experiment: [the 2025 contribution-art view](https://github.com/Murathanx12?tab=overview&from=2025-01-01&to=2025-12-31).</sub>

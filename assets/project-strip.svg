@@ -1,20 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="188" viewBox="0 0 1200 188" role="img" aria-labelledby="title desc">
-  <title id="title">Code, design and build</title>
+  <title id="title">Projects I'm working on</title>
   <desc id="desc">Murathan's selected projects, using the established black, white, blue and orange visual language.</desc>
   <style>
     text{font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
     .meta{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:12px;letter-spacing:2px;fill:#aaa}
-    .word{font-size:64px;font-weight:300;letter-spacing:8px}
+    .word{font-size:32px;font-weight:300;letter-spacing:1px}
+    .detail{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:11px;letter-spacing:1.5px;fill:#aaa}
     .flow{stroke-dasharray:3 12;animation:current 6s linear infinite}
     @keyframes current{to{stroke-dashoffset:-60}}
     @media(prefers-reduced-motion:reduce){.flow{animation:none}}
   </style>
   <rect width="1200" height="188" fill="#000"/>
   <path d="M20 44V20H44M1156 20H1180V44M1180 144V168H1156M44 168H20V144" fill="none" stroke="#fff" stroke-opacity=".35"/>
-  <text x="54" y="52" class="meta">SELECTED PROJECTS</text>
-  <text x="54" y="111" class="word">CODE</text>
-  <text x="405" y="111" class="word">DESIGN</text>
-  <text x="836" y="111" class="word">BUILD</text>
+  <text x="54" y="52" class="meta">PROJECTS I'M WORKING ON</text>
+  <text x="54" y="99" class="word">Aegis Finance</text>
+  <text x="54" y="121" class="detail">RESEARCH / EXPERIMENTS</text>
+  <text x="405" y="99" class="word">Optimus Brain</text>
+  <text x="405" y="121" class="detail">MEMORY / TOOLS</text>
+  <text x="836" y="99" class="word">Sony</text>
+  <text x="836" y="121" class="detail">THE ROBOTIC BUTLER</text>
   <path d="M54 139H1146" stroke="#fff" stroke-opacity=".16" fill="none"/>
   <path d="M54 139H1146" stroke="#4a8dff" stroke-opacity=".8" class="flow" fill="none"/>
   <circle cx="54" cy="139" r="3" fill="#6fb0ff"/>
