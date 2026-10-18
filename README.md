@@ -1,8 +1,6 @@
 # Hi, I’m Murathan. I like building things.
 
-[murathan.info](https://murathan.info)
-
-![Projects I’m working on: Aegis Finance, Optimus Brain and Sony the robotic butler](assets/project-strip.svg)
+[![Check my portfolio: murathan.info](assets/project-strip.svg)](https://murathan.info)
 
 ### Aegis Finance
 
