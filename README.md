@@ -1,16 +1,62 @@
-# Hi, I’m Murathan
+# Hi, I’m Murathan. I code and build things.
 
-I study Innovation and Technology at the University of Hong Kong and build across robotics, mechanical design, 3D tools and AI research systems.
+[**murathan.info ↗**](https://murathan.info)
 
-**[Explore my portfolio](https://murathan.info)** — robot designs, engineering projects, interactive models and my CV.
+![Code, design and build — selected projects](assets/project-strip.svg)
 
-## Current projects
+### Aegis Finance
 
-| Project | What I’m building | Explore |
-| --- | --- | --- |
-| **Aegis Finance** | A market research system connecting sources, quantitative experiments, paper evaluation and retained findings. Active development; selected results include their dates, benchmarks and limitations. | [Website](https://aegis-finance-showcase.vercel.app) · [Public showcase](https://github.com/Murathanx12/AEGIS-FINANCE-SHOWCASE) |
-| **Optimus Brain** | Persistent project context, source-linked knowledge, reusable skills and MCP tools that help AI sessions continue the work. | [Website](https://optimus-brain-alpha.vercel.app) · [Engine](https://github.com/Murathanx12/Optimus) |
+A work-in-progress market research system: gathering sources, testing ideas and keeping the evidence. The public showcase brings together its design, experiments and dated paper-account results.
 
-My engineering work includes FRC robotics, CAD and fabrication, UAV research, 3D printing and interactive visualization. I enjoy projects where the software meets something you can build, inspect or test.
+[**Explore Aegis**](https://aegis-finance-showcase.vercel.app) · [Public repository](https://github.com/Murathanx12/AEGIS-FINANCE-SHOWCASE)
 
-[Portfolio & CV](https://murathan.info) · [Aegis case study](https://murathan.info/projects/aegis-finance) · [Optimus case study](https://murathan.info/projects/optimus-brain)
+[![Aegis Finance — the research loop](assets/aegis-orbit.svg)](https://aegis-finance-showcase.vercel.app)
+
+### Optimus Brain
+
+Project memory and reusable tools for AI assistants. Sources, decisions and skills stay connected so a new session can find the work that came before it.
+
+[**Explore Optimus**](https://optimus-brain-alpha.vercel.app) · [Repository](https://github.com/Murathanx12/Optimus)
+
+[![Optimus Brain — connected project memory](assets/optimus-neural.svg)](https://optimus-brain-alpha.vercel.app)
+
+### Sonny · AR-2
+
+A robotic butler with mecanum wheels, computer vision, voice interaction and an expressive face. A team project connecting mechanical design, electronics and software.
+
+[**Project & build notes**](https://github.com/Murathanx12/AR-2) · [Technical report](https://github.com/Murathanx12/AR-2/blob/main/docs/Sonny_Technical_Report.pdf)
+
+[![Sonny on the workshop test track](assets/demo_face.jpg)](https://github.com/Murathanx12/AR-2)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Journal & Letter
+
+Private journals and shared letters that become a book, with real pages, drawings and export tools.
+
+[Repository ↗](https://github.com/Murathanx12/Journal-Letter-)
+
+</td>
+<td width="50%" valign="top">
+
+### RentMap HK
+
+A student housing guide for exploring Hong Kong neighbourhoods, commutes and rental sources.
+
+[Try RentMap ↗](https://rentmap-hk.vercel.app) · [Repository](https://github.com/Murathanx12/Rent-for-Students)
+
+</td>
+</tr>
+</table>
+
+### Web Portfolio Template
+
+The open-source starting point for my portfolio, with interactive 3D models, a media library and room to make it your own.
+
+[**Get the template**](https://github.com/Murathanx12/Web-Portfolio-Template) · [See my version](https://murathan.info)
+
+[![Web Portfolio Template — original portfolio interface](https://raw.githubusercontent.com/Murathanx12/Web-Portfolio-Template/main/docs/screenshot-hero.png)](https://github.com/Murathanx12/Web-Portfolio-Template)
+
+<sub>A small side experiment: [the 2025 contribution-art view](https://github.com/Murathanx12?tab=overview&from=2025-01-01&to=2025-12-31).</sub>
